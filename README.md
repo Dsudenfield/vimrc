@@ -12,7 +12,7 @@ I would of course recommend using the awesome version.c
 ## How to install the Awesome version?
 The awesome version includes a lot of great plugins, configurations and color schemes that make Vim a lot better. To install it simply do following:
 
-	git clone git@github.com:SevenEcks/vimrc.git ~/.vim_runtime
+	git@github.com:Dsudenfield/vimrc.git ~/.vim_runtime
 	sh ~/.vim_runtime/install_awesome_vimrc.sh
 	git clone https://github.com/mileszs/ack.vim.git ~/.vim/bundle/ack.vim
 	
